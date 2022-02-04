@@ -4,7 +4,7 @@ Script to connect 3commas bots to hammertime telegram signals
 # Disclaimer
 **This script is meant to be used for educational purposes only. Use with real funds at your own risk**
 
-# These signals cost money for me to host! If you are enjoying them, please consider supporting me to help keep them up and running:
+# These signals cost money for me to host! If you are enjoying them, please consider supporting me to help keep them up and running
 https://www.patreon.com/HebrewHammer
 
 https://www.buymeacoffee.com/H3brewHammer
